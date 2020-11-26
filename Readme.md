@@ -1,4 +1,4 @@
-# Denoising Images by using an Autoencoder
+# Denoising images using Autoencoders
 
 One of the fundamental challenges in the field of Image Processing and Computer Vision is Image Denoising, where the underlying goal is to estimate the original image by suppressing noise from a noise-contaminated version of the image. Image noise may be caused by different intrinsic (i.e., sensor) and extrinsic (i.e., environment) conditions which are often not possible to avoid in practical situations.
 
